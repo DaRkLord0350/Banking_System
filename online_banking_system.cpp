@@ -3,7 +3,7 @@ using namespace std;
 
 class user{
     public:
-        char phone[50];
+        	char phone[50];
 		char ac[50];
 		char password[50];
 		float balance;
@@ -62,7 +62,7 @@ int main(){
 				cin>>choice;
 				switch(choice){
 					case 1:
-						cout<<"Your current balance is Rs. %.2f",user.balance;
+						cout<<"Your current balance is Rs. "<<user.balance;
 						break;
 
 					case 2:
