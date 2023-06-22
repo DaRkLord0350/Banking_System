@@ -1,1 +1,1 @@
-# Banking_System
+I've completed a comprehensive Banking System project in C++. It's a console-based application that emulates a fully functional banking system. Users can register accounts, log in securely, perform operations like balance inquiry, fund transfers, deposits, withdrawals, and even change passwords. The project highlights my proficiency in file handling, data validation, and algorithmic logic.
